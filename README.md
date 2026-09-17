@@ -42,7 +42,7 @@ Maintained by the team behind [GeoBuddy](https://geobuddy.co). Competitors are l
 
 ## Data
 
-- [`data/brand-ai-visibility-2026-09-17.csv`](data/brand-ai-visibility-2026-09-17.csv) - AI visibility score for 164 public brands (0 score 0%), each measured on 12 category questions across ChatGPT, Claude, Gemini and Perplexity with web search on. Snapshot of GeoBuddy's public brand pages taken 2026-09-17; every row links to its source page with the raw engine answers.
+- [`data/brand-ai-visibility-2026-09-17.csv`](data/brand-ai-visibility-2026-09-17.csv) - AI visibility score for 164 public brands, each measured on 12 category questions across ChatGPT, Claude, Gemini and Perplexity with web search on. Snapshot of GeoBuddy's public brand pages taken 2026-09-17. Selection note: only brands with at least one mention get a public page, so this file has no 0% rows; the 59% zero-score figure comes from the full 2,000+ brand population in the report below. Every row links to its source page with the raw engine answers.
 
 Top 10 in the snapshot:
 
