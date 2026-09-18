@@ -2,6 +2,8 @@
 
 Tools, free checkers, research and data for **AI visibility** / **Generative Engine Optimization (GEO)**: whether ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews mention or recommend a brand.
 
+[中文版 README_CN.md](README_CN.md)
+
 Maintained by the team behind [GeoBuddy](https://geobuddy.co). Competitors are listed on equal footing; entries are factual one-liners, no rankings. PRs welcome.
 
 ## Contents
